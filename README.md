@@ -21,7 +21,7 @@ This project revolves around the following steps:
 - Uploading the container image to the Google Container Registry.
 - Deploying the application on a Kubernetes Cluster.
 
-## Tech Stack
+## Technology used in this app
 
 - Python
 - Flask
@@ -36,13 +36,3 @@ This project revolves around the following steps:
 - Cricbuzz API Key
 - Google Cloud Project
 
-## Installation
-
-Guide on setting up the application locally:
-
-1. Clone this repository: `git clone https://github.com/vishal-bulbule/real-time-crick-score-app`
-
-## Demo Video
-
-Check out our demo video on YouTube showcasing the application:
-[[Demo Video]](https://youtu.be/4HJ1D1nh2Yc?si=sQu4VT9B0E2aA0pf)
